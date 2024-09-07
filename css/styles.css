@@ -55,7 +55,7 @@ a {
     background-color: #4D5AE5;
     color: white;
     letter-spacing: 4%;
-    
+    cursor: pointer;
 }
 .button:hover, .button:active, .button:focus {
     background-color: #404BBF;
