@@ -1,0 +1,27 @@
+body {
+    font-family: "Roboto", "Raleway" sans-serif;
+    background-color: #FCFCFC;
+    color: #434455;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+.page-header {
+    background-color: #FFFFFF;
+}
+.section-one {
+    background-color: #2E2F42;
+}
+.page-title {
+    font-size: 52px;
+    text-align: center;
+    line-height: 60px;
+    letter-spacing: 2%;
+    color: white;
+}
