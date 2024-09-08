@@ -16,7 +16,7 @@ body {
     text-align: center;
     color: #2E2F42;
 }
-.little-title {
+.three-title {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
@@ -47,7 +47,7 @@ a {
     font-style: normal;
     letter-spacing: 0.02em;
 }
-.address-header .link:hover .address-header .link:focus {
+.address-header .link:hover, .address-header .link:focus {
     color: #404bbf;
 }
 .section-one {
@@ -89,12 +89,29 @@ a {
 .section-team {
     background-color: #F4F4FD;
 }
-.section-portfolio .title{
+.section-team ul {
+    background-color: #FFFFFF;
+}
+.section-team .text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.section-four .title{
+    font-size: 36px;
+    color: #2e2f42;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
 }
+.section-four .three-title {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
 .page-footer {
     background-color: #2E2F42;
     color: #F4F4FD;
