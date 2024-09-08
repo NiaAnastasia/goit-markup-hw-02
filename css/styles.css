@@ -89,7 +89,7 @@ a {
 .section-team {
     background-color: #F4F4FD;
 }
-.section-team ul {
+.section-team .img-team {
     background-color: #FFFFFF;
 }
 .section-team .text {
@@ -110,6 +110,9 @@ a {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+}
+.section-four .text{
+    line-height: 1.5;
 }
 
 .page-footer {
